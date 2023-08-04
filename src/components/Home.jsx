@@ -48,8 +48,10 @@ const Home = () => {
                 animationDelay: "0.3s",
               }}
             >
+            <a href="https://www.google.com/">
               <AiFillGoogleCircle />
               <p>Google</p>
+            </a>
             </div>
 
             <div
@@ -57,8 +59,10 @@ const Home = () => {
                 animationDelay: "0.5s",
               }}
             >
+            <a href="https://www.amazon.in/">
               <AiFillAmazonCircle />
-              <p>Amazon</p>
+              <p> Amazon</p>
+            </a>
             </div>
 
             <div
@@ -66,8 +70,10 @@ const Home = () => {
                 animationDelay: "0.7s",
               }}
             >
-              <AiFillYoutube />
-              <p>Youtube</p>
+              <a href="https://youtube.com/@arunvlogs52">
+                <AiFillYoutube />
+                <p>Youtube</p>
+              </a>
             </div>
 
             <div
@@ -75,8 +81,10 @@ const Home = () => {
                 animationDelay: "1s",
               }}
             >
-              <AiFillInstagram />
-              <p>Instagram</p>
+              <a href="https://instagram.com/arun_sh52">
+                <AiFillInstagram />
+                <p>Instagram </p>
+              </a>
             </div>
           </article>
       </div>
