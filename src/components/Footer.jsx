@@ -5,6 +5,7 @@ const Footer = () => {
     <footer>
         <div>
             <h1>VenturePortal</h1>
+            <img src="https://ascendwithportal.com/wp-content/uploads/2023/05/portal-featured-image.jpg" alt="founder img" />
             <p>@all right reserved</p>
         </div>
 
